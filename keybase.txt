@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/galeksandrp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://css-okyes.ru
+  * I am galeksandrp (https://keybase.io/galeksandrp) on keybase.
+  * I have a public key with fingerprint 0B58 92A8 EE87 4BD9 C7E2  26EA 7546 5C70 4392 E07F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d69b5c138976dd96e98c32275ea95ad1b4f59ef9b113abf4abec18fbeb7391580a",
+            "fingerprint": "0b5892a8ee874bd9c7e226ea75465c704392e07f",
+            "host": "keybase.io",
+            "key_id": "75465c704392e07f",
+            "kid": "0101d69b5c138976dd96e98c32275ea95ad1b4f59ef9b113abf4abec18fbeb7391580a",
+            "uid": "ea9c8b10855ef554d60d429685ffbf19",
+            "username": "galeksandrp"
+        },
+        "service": {
+            "hostname": "css-okyes.ru",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1495752031,
+    "expire_in": 157680000,
+    "prev": "15f6d63c8fd84326fd2df8f56f0bffdd5f0a9dfd6ae3e76a66221e652fb25c38",
+    "seqno": 33,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtkltoFUcYx0+OGjG0aEskD61UVmOkxrizuzO7sy+GegG1xlRtsZJwmNn55mTJ
+cXezuycXYlRUlDwoURAtqAGpsViIGhGL0NimRdGApQEvCJZ4S8mTBAx4IdjdYN/6
+2HkZZr7f/z//72N6PpyRyZYU1zYEq46O7i4ZHueZb6saoVPhvuhQ7E6lGaY3KAiI
+4lyzKxRbUZGKBKEcO0i3qEmEoASo5eiaZmJgFDOBuCExBUk5Qjrj0mAcHGRJDtzU
+KcKWypRqRbpeHsIgdL04teXYohqzACzT4II6JmgaAWZig2DHVA2daqCaMhE2+VGq
+SMJxFkGN6yd3ySE3He8/+P85d3HaLlE4FkeqhTFIjA1BVGFolFhYSi4RTcEIQo/t
+gITOswI0R8wTYaB0VStJodV1IJ1t2sx7yImi5X5zB0Q1YTGRB6Ef+45fSCpNcRxE
+dqqMO4IUbQOee2+S464nklEmilYII9f3FBslpBO7qSsyKDaxpuqoWoH2wA0h56YE
+NomlJit9B1oTS4QlaRBEdywpLEPXiBSakJbERKpcSiGwVBkVUhAGOpiEEaJpCAjW
+JNewo1tK2leL5yu2ridBWT4xjdy8x+JiCEpXWXfJpzMzJdlM6axs+ssyZXPm/fv1
+/MrZUwvOH+s7Nb6p4nbh8PLJkV8aG3q97Q4ujpX2HVk6sK4t940yqb+Ym/3r5ppl
+h7Z0f1I5srC2/fEfddW8t3Ni/8AZszu+dLF/P2Qbnx+43Dn08yC6erZ379xTPSsW
+Afr+p6atS4o333xeqT68gj+jb38Y2Ve1x39Z2//dklv+g7bCuwv9E1/XTFSdvWPb
+V3+jb/L3X95Ydq7ui18HtIq7B3fN1K4N/t49pFYe3WmXN6x+9VHpyQ2zr897++zG
+312D84e6LrTbM3r587F7weHNaqP9+uTaPVOLy+tHb7d8dQSP1j75eH396cDqWXzv
++J87lr571Lfy0tan+MtDd4dPfLDx/rbhH8ubKtg/
+=WI1d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/galeksandrp
+
+==================================================================
